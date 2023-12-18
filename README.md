@@ -3,4 +3,6 @@ This web application can be used to detect objects in images and classify them i
 
 ML.NET, Swagger .NET API, and React
 
+Graded by teacher; 9.2/10
+
 
